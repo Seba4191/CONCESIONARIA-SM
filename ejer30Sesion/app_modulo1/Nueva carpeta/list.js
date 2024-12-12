@@ -1,0 +1,1 @@
+var listaMarca= '{"nomMarcas":[{"marca":"Audi"},{"marca":"BMW"},{"marca":"Chevrolet"},{"marca":"Daewoo"},{"marca":"Ford"},{"marca":"GMC"},{"marca":"Honda"},{"marca":"Isuzu"},{"marca":"Renault"},{"marca":"Volkswagüen"}]}';
